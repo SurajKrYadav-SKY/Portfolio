@@ -1,0 +1,37 @@
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+  .bottom {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .contactButton {
+    text-decoration: none;
+    background: linear-gradient(to right, #f7ca43, #fe9113);
+    color: white;
+    font-size: 30px;
+    padding: 4px 15px;
+    border-radius: 30px;
+    font-weight: 600;
+    box-shadow: 0 0 4px 0 rbga(0, 0, 0, 0.25);
+    &:hover {
+      border: 2px solid #19fa7a;
+    }
+    cursor: pointer;
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
