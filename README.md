@@ -1,5 +1,5 @@
 # Demo link : 
-https://my-portfolio-suraj-sky.netlify.app/
+https://suraj-sky-portfolio.netlify.app/
 
 # React + Vite
 
