@@ -7,7 +7,7 @@ export const about = [
   {
     title: "Fullstack Developer",
     img: "./images/full-stack.png",
-    desc: "I'm a full-stack developer with a strong foundation in frontend development and good knowledge in backend technologies like Node.js, Express, and MongoDB.
+    desc: "I'm a full-stack developer with a strong foundation in frontend development and have a good knowledge in backend technologies like Node.js, Express, and MongoDB.
       Committed to delivering seamless and efficient web applications, I continuously enhance my skills to stay at the forefront of the industry.",
   },
   {
