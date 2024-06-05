@@ -36,8 +36,8 @@ export const experiences = [
   {
     role: "Frontend Developer Intern",
     organisation: "Alorb Technologies Pvt. Ltd.",
-    startDate: "December 2023",
-    endDate: "present",
+    startDate: "January 2024",
+    endDate: "May 2024",
     experience: [
       "Worked as a frontend developer",
       "Worked on the UI of Payroll Software ",
