@@ -39,8 +39,8 @@ export const experiences = [
     startDate: "December 2023",
     endDate: "present",
     experience: [
-      "Working as a frontend developer",
-      "Working on the UI of Payroll Software ",
+      "Worked as a frontend developer",
+      "Worked on the UI of Payroll Software ",
     ],
     img: "./images/alorb.png",
   },
